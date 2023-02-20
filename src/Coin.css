@@ -1,0 +1,11 @@
+img{
+    height: 350px;
+    width: 350px;
+}
+.rolling{
+    transform-style: preserve-3d;   
+    transition : all 1s ease;
+    transform: rotateX(2160deg);
+}
+
+
